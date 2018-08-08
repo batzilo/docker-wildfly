@@ -1,0 +1,31 @@
+http://blog.arungupta.me/wildfly-8-clustering-and-session-failover/
+
+https://docs.docker.com/install/linux/docker-ce/debian/#upgrade-docker-ce
+https://docs.docker.com/network/proxy/
+https://stackoverflow.com/questions/23111631/cannot-download-docker-images-behind-a-proxy
+
+
+https://stackoverflow.com/questions/27937185/assign-static-ip-to-docker-container
+https://docs.docker.com/engine/reference/commandline/network_create/#specify-advanced-options
+
+
+https://github.com/Mellanox/sockperf/tree/31a0b54b26e4619b79d1296ad608e03075e9e255
+$ sockperf server -i 224.4.4.4 -p 1234
+$ sockperf ping-pong -i 244.4.4.4 -p 1234
+
+
+https://docs.jboss.org/author/display/WFLY8/Load+Balanced+HA+Standalone+Cluster+-+Howto#LoadBalancedHAStandaloneCluster-Howto-Configuration
+
+
+https://hub.docker.com/r/library/httpd
+http://mod-cluster.jboss.org/mod_cluster/downloads/1-3-1-Final-bin
+https://github.com/modcluster/mod_cluster/issues/141
+http://docs.jboss.org/mod_cluster/1.3.0/native.config.html
+
+
+http://docs.jboss.org/mod_cluster/1.3.0/native.config.html#d0e485
+https://stackoverflow.com/questions/33232520/wildfly-9-0-standalone-cluster-with-httpd2-4-and-mod-cluster1-3-1
+http://modcluster.io/faq/
+http://modcluster.io/documentation/#minimal-example
+? https://gist.github.com/slok/1543449/4533338b25f952eb141fc71aab8ccc02c63d2439
+? https://symbiotics.co.za/wildfly-modcluster-config-and-session-replication/
